@@ -1,0 +1,14 @@
+//
+// Prefix header for all source files of the 'TrivialDocuments' target in the 'TrivialDocuments' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
+
+
+#ifdef WINDOWS
+enum {
+    unimpErr = -4
+};
+#endif

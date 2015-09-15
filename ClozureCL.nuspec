@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ClozureCL</id>
+    <version>1.10.1</version>
+    <authors>Lars Brinkhoff</authors>
+    <owners>Lars Brinkhoff</owners>
+    <licenseUrl>http://trac.clozure.com/ccl/wiki/License</licenseUrl>
+    <projectUrl>http://ccl.clozure.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ClozureCL Common Lisp</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>common lisp compiler native command</tags>
+  </metadata>
+</package>
